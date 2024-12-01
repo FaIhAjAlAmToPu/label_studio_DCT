@@ -1,0 +1,5 @@
+label_studio_Starter/conda
+label_studio_Starter/*frames*
+label_studio_Starter/img*
+label_studio_Starter/*.mp4
+label_studio_Starter/storage
